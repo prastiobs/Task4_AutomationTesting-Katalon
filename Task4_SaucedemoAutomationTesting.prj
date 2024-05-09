@@ -6,7 +6,10 @@
    <UUID>1dea050f-66f4-4ed1-bd29-a51e034a0da0</UUID>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/prastio/Documents/Bootcamp/Task4_AutomationTesting-Katalon/Task4_SaucedemoAutomationTesting.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
