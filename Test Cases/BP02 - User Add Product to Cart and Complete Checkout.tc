@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BP02 - User Add Product to Cart and Complete Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0a4bd23-4754-4d73-84e6-81407966fed6</testCaseGuid>
+</TestCaseEntity>
